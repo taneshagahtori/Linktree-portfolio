@@ -1,4 +1,4 @@
-**Simple Linktree Portfolio
+## Simple Linktree Portfolio
 
 🌐 Live Demo: https://linktree-portfolio.netlify.app/
 
